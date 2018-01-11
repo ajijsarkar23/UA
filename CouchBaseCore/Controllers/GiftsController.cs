@@ -11,7 +11,7 @@ namespace CouchBaseCore.Controllers
     //[Route("api/Gifts")]
     public class GiftsController : Controller
     {
-
+//changed by deepak kumar
         private IBucket _buckate;
         private IBucket _buckate2;
 

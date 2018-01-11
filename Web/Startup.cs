@@ -13,6 +13,7 @@ namespace Web
 {
     public class Startup
     {
+		//saikat
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
